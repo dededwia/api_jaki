@@ -1,0 +1,2 @@
+class Jaki < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class RawatJalanOnsite < ApplicationRecord
+end

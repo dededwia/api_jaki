@@ -1,0 +1,2 @@
+class RawatJalanApm < ApplicationRecord
+end
