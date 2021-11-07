@@ -7,6 +7,10 @@ class JakisController < ApplicationController
     @jakis = Jaki.all
   end
 
+  def jadwal_poli
+    
+  end
+
   def registrationrawatjalanCIK
     data = {
      bookingCode: params['bookingCode']
